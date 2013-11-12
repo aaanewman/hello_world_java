@@ -6,7 +6,7 @@ import org.junit.Test;
  * Date: 8/11/13
  * Time: 5:10 PM
  * To change this template use File | Settings | File Templates.
- * My first test
+ * My first test I created
  */
 public class HelloWorldTest {
     @Test
