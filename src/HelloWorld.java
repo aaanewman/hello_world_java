@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
  * Date: 8/11/13
  * Time: 4:42 PM
  * To change this template use File | Settings | File Templates.
- * My first Java class
+ * My first Java class I created recently
  */
 public class HelloWorld {
     public static void main(String[] argv) throws IOException {
